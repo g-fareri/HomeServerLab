@@ -29,4 +29,4 @@ Proxmox Host
 - Verified connectivity via ping and SSH
 - Organized rack-mounted patch panel for cable management
 
-[!image](https://github.com/g-fareri/HomeServerLab/blob/230c99800142a4e4b28331b95289490e5c38cfb6/homelab.png)
+![image alt](https://github.com/g-fareri/HomeServerLab/blob/230c99800142a4e4b28331b95289490e5c38cfb6/homelab.png)
