@@ -13,7 +13,7 @@ The goal of this environment is to gain practical experience in:
 *Linux system administration
 *Infrastructure troubleshooting and optimization
 
-#Hardware
+# Hardware
 Server Host: Dell OptiPlex 7050 SFF
 * CPU: Intel i5-7600
 * RAM: 16GB DDR4
