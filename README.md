@@ -2,7 +2,7 @@
 Home lab project documenting server virtualization, networking, and infrastructure setup
 
 ## Hardware
-- Dell Optiplex 7050 sff: CPU i5-7600, 16gb ddr4 RAM, Samsung 970 EVO 250gm M.2 SSD, 4TB WD Blue internal HHD
+- Dell Optiplex 7050 sff: CPU i5-7600, RAM 16gb ddr4, SSD Samsung 970 EVO 250gb M.2, HHD 4TB WD Blue internal
 - 8-port Netgear GS308 switch
 - Patch panel & cabling
 - Server rack
