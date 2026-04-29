@@ -17,13 +17,13 @@ The goal of this environment is to gain practical experience in:
 Server Host: Dell OptiPlex 7050 SFF
 * CPU: Intel i5-7600
 * RAM: 16GB DDR4
-** Storage:
-* Samsung 970 EVO 250GB NVMe (OS / Proxmox)
-* 4TB WD Blue HDD (media storage)
-** Networking Equipment
-* Netgear GS308 8-Port Gigabit Switch (unmanaged)
-* Structured patch panel and Ethernet cabling
-* Small rack-mounted setup for cable management and organization
+  * Storage:
+    * Samsung 970 EVO 250GB NVMe (OS / Proxmox)
+    * 4TB WD Blue HDD (media storage)
+* Networking Equipment
+  * Netgear GS308 8-Port Gigabit Switch (unmanaged)
+  * Structured patch panel and Ethernet cabling
+  * Small rack-mounted setup for cable management and organization
 
 # Software Stack
 * Proxmox VE 9.1-1 (virtualization platform)
